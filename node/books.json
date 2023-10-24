@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "prix": 8.99,
+    "description": "Publié en 1949, '1984' est un roman dystopique qui explore les dangers d'un gouvernement totalitaire et d'une surveillance de masse."
+  },
+  {
+    "id": 2,
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "prix": 5.99,
+    "description": "Publié en 1943, 'Le Petit Prince' est un conte poétique et philosophique sous l'apparence d'une histoire pour enfants."
+  },
+  {
+    "id": 4,
+    "titre": "The Great Gatsby",
+    "auteur": "F. Scott Fitzgerald",
+    "prix": 9.99,
+    "description": "Publié en 1925, 'The Great Gatsby' explore les thèmes de la décadence, du rêve américain et de la recherche du bonheur."
+  },
+  {
+    "id": 5,
+    "titre": "Harry Potter à l'école des sorciers",
+    "auteur": "J.K. Rowling",
+    "prix": 6.99,
+    "description": "Premier tome de la série 'Harry Potter', publié en 1997, introduisant le jeune sorcier Harry Potter et ses aventures à Poudlard."
+  },
+  {
+    "id": 6,
+    "titre": "Le Seigneur des Anneaux: La Communauté de l'Anneau",
+    "auteur": "J.R.R. Tolkien",
+    "prix": 12.99,
+    "description": "Premier tome de la trilogie 'Le Seigneur des Anneaux', publié en 1954, emmenant les lecteurs dans un monde fantastique riche en aventure."
+  },
+  {
+    "id": 7,
+    "titre": "Getting Things Done",
+    "auteur": "David Allen",
+    "prix": 14.99,
+    "description": "Getting Things Done, the art of stress-free productivity (GTD) (Faire avancer les choses, l'art de la productivité sans stress) est le titre d'un livre de David Allen publié en 2001, décrivant une méthode de gestion des priorités quotidiennes, et est depuis 2005 une marque déposée"
+  }
+]
